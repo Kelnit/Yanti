@@ -1,5 +1,5 @@
-# Yanti
-Yanti : Hi :eyes: !
+# Jar
+Jar : Hi :eyes: !
 
-## 💻 Yanti Technologies
-[![Our Tech](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+## 💻 Jar Technologies
+[![Our Tech](https://skillicons.dev/icons?i=golang)](https://skillicons.dev)
